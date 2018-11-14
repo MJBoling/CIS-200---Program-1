@@ -1,0 +1,6 @@
+C:\Users\mjbol\OneDrive\Documents\School\CIS 200\Programs\Program 1B\Prog1B\Prog0\bin\Debug\Prog1B.exe.config
+C:\Users\mjbol\OneDrive\Documents\School\CIS 200\Programs\Program 1B\Prog1B\Prog0\bin\Debug\Prog1B.exe
+C:\Users\mjbol\OneDrive\Documents\School\CIS 200\Programs\Program 1B\Prog1B\Prog0\bin\Debug\Prog1B.pdb
+C:\Users\mjbol\OneDrive\Documents\School\CIS 200\Programs\Program 1B\Prog1B\Prog0\obj\Debug\Prog1B.csproj.CoreCompileInputs.cache
+C:\Users\mjbol\OneDrive\Documents\School\CIS 200\Programs\Program 1B\Prog1B\Prog0\obj\Debug\Prog1B.exe
+C:\Users\mjbol\OneDrive\Documents\School\CIS 200\Programs\Program 1B\Prog1B\Prog0\obj\Debug\Prog1B.pdb
